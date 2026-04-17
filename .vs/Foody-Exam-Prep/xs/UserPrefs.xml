@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{284D8076-696E-4B66-B97D-95E11FF50F76}|Default">
+  <MonoDevelop.Ide.ItemProperties.Foody-Exam-Prep FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Foody-Exam-Prep/Foody-tests.cs">
+    <Files>
+      <File FileName="Foody-Exam-Prep/UnitTest1.cs" Line="19" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Foody-Exam-Prep" expanded="True">
+            <Node name="Foody-Exam-Prep">
+              <Node name="Foody-tests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Foody-Exam-Prep" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
